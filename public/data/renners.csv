@@ -1,0 +1,314 @@
+Tabel 1
+;;;;;;
+;ID;Voornaam;Achternaam;Ploeg 2018;Ploeg 2019;Prijs TDF 2019
+;1;Chris;Froome;Team Sky;Team INEOS;6000000
+;2;Egan;Bernal;Team Sky;Team INEOS;4500000
+;3;Jonathan;Castroviejo;Team Sky;Team INEOS;1500000
+;4;Michal;Kwiatkowski;Team Sky;Team INEOS;1500000
+;5;Gianni;Moscon;Team Sky;Team INEOS;
+;6;Wout;Poels;Team Sky;Team INEOS;2000000
+;7;Luke;Rowe;Team Sky;Team INEOS;1000000
+;8;Geraint;Thomas;Team Sky;Team INEOS;6000000
+;9;Rigoberto;Uran;Team EF Education First-Drapac p/b Cannondale;EF Education First;2500000
+;10;Simon;Clarke;Team EF Education First-Drapac p/b Cannondale;;
+;11;Lawson;Craddock;Team EF Education First-Drapac p/b Cannondale;EF Education First;500000
+;12;Daniel Felipe;Martinez;Team EF Education First-Drapac p/b Cannondale;;
+;13;Taylor;Phinney;Team EF Education First-Drapac p/b Cannondale;;
+;14;Pierre;Rolland;Team EF Education First-Drapac p/b Cannondale;;
+;15;Tom;Scully;Team EF Education First-Drapac p/b Cannondale;;
+;16;Sep;Vanmarcke;Team EF Education First-Drapac p/b Cannondale;;
+;17;Romain;Bardet;AG2R La Mondiale;AG2R La Mondiale;3500000
+;18;Silvan;Dillier;AG2R La Mondiale;AG2R La Mondiale;500000
+;19;Axel;Domont;AG2R La Mondiale;AG2R La Mondiale;
+;20;Mathias;Frank;AG2R La Mondiale;AG2R La Mondiale;750000
+;21;Tony;Gallopin;AG2R La Mondiale;AG2R La Mondiale;750000
+;22;Pierre;Latour;AG2R La Mondiale;AG2R La Mondiale;1000000
+;23;Oliver;Naesen;AG2R La Mondiale;AG2R La Mondiale;750000
+;24;Alexis;Vuillermoz;AG2R La Mondiale;AG2R La Mondiale;750000
+;25;Michael;Matthews;Team Sunweb;Team Sunweb;3000000
+;26;Tom;Dumoulin;Team Sunweb;Team Sunweb;4500000
+;27;Nikias;Arndt;Team Sunweb;Team Sunweb;1000000
+;28;Simon;Geschke;Team Sunweb;CCC Team;500000
+;29;Chad;Haga;Team Sunweb;Team Sunweb;
+;30;Søren;Kragh Andersen;Team Sunweb;Team Sunweb;750000
+;31;Laurens;Ten Dam;Team Sunweb;CCC Team;500000
+;32;Edward;Theuns;Team Sunweb;Trek-Segafredo;750000
+;33;Warren;Barguil;Team Fortuneo - Samsic;Team Arkéa Samsic;1500000
+;34;Maxime;Bouet;Team Fortuneo - Samsic;;
+;35;Élie;Gesbert;Team Fortuneo - Samsic;Team Arkéa Samsic;500000
+;36;Romain;Hardy;Team Fortuneo - Samsic;Team Arkéa Samsic;500000
+;37;Kévin;Ledanois;Team Fortuneo - Samsic;;
+;38;Amaël;Moinard;Team Fortuneo - Samsic;;
+;39;Laurent;Pichon;Team Fortuneo - Samsic;;
+;40;Florian;Vachon;Team Fortuneo - Samsic;;
+;41;Vincenzo;Nibali;Bahrein Merida Pro Cycling Team;Bahrein Merida;2500000
+;42;Sonny;Colbrelli;Bahrein Merida Pro Cycling Team;Bahrein Merida;2000000
+;43;Heinrich;Haussler;Bahrein Merida Pro Cycling Team;Bahrein Merida;500000
+;44;Gorka;Izagirre;Bahrein Merida Pro Cycling Team;Astana Pro Team;750000
+;45;Ion;Izagirre;Bahrein Merida Pro Cycling Team;Astana Pro Team;
+;46;Kristijan;Koren;Bahrein Merida Pro Cycling Team;Bahrein Merida;
+;47;Franco;Pellizotti;Bahrein Merida Pro Cycling Team;;
+;48;Domenico;Pozzovivo;Bahrein Merida Pro Cycling Team;Bahrein Merida;
+;49;Adam;Yates;Mitchelton-Scott;Mitchelton-Scott;3500000
+;50;Jack;Bauer;Mitchelton-Scott;;
+;51;Luke;Durbridge;Mitchelton-Scott;;
+;52;Mathew;Hayman;Mitchelton-Scott;;
+;53;Michael;Hepburn;Mitchelton-Scott;;
+;54;Damien;Howson;Mitchelton-Scott;Mitchelton-Scott;500000
+;55;Daryl;Impey;Mitchelton-Scott;Mitchelton-Scott;750000
+;56;Mikel;Nieve;Mitchelton-Scott;;
+;57;Nairo;Quintana;Movistar Team;Movistar Team;3500000
+;58;Andrey;Amador;Movistar Team;Movistar Team;750000
+;59;Daniele;Bennati;Movistar Team;;
+;60;Imanol;Erviti;Movistar Team;Movistar Team;500000
+;61;Mikel;Landa;Movistar Team;Movistar Team;3000000
+;62;José Joaquín;Rojas;Movistar Team;;
+;63;Marc;Soler;Movistar Team;Movistar Team;1000000
+;64;Alejandro;Valverde;Movistar Team;Movistar Team;2500000
+;65;Richie;Porte;BMC Racing Team;Trek-Segafredo;3000000
+;66;Patrick;Bevin;BMC Racing Team;CCC Team;750000
+;67;Damiano;Caruso;BMC Racing Team;Bahrein Merida;1000000
+;68;Simon;Gerrans;BMC Racing Team;;
+;69;Stefan;Küng;BMC Racing Team;;
+;70;Michael;Schär;BMC Racing Team;CCC Team;500000
+;71;Greg;Van Avermaet;BMC Racing Team;CCC Team;1000000
+;72;Tejay;Van Garderen;BMC Racing Team;EF Education First;1000000
+;73;Dan;Martin;UAE-Team Emirates;UAE-Team Emirates;2500000
+;74;Darwin;Atapuma;UAE-Team Emirates;Cofidis, Solutions Crédits;750000
+;75;Kristijan;Durasek;UAE-Team Emirates;;
+;76;Roberto;Ferrari;UAE-Team Emirates;;
+;77;Alexander;Kristoff;UAE-Team Emirates;UAE-Team Emirates;2000000
+;78;Marco;Marcato;UAE-Team Emirates;UAE-Team Emirates;500000
+;79;Rory;Sutherland;UAE-Team Emirates;;
+;80;Oliviero;Troia;UAE-Team Emirates;;
+;81;Julian;Alaphilippe;Quick-Step Floors;Deceuninck - Quick Step;2500000
+;82;Tim;Declerq;Quick-Step Floors;;
+;83;Fernando;Gaviria;Quick-Step Floors;UAE-Team Emirates;3500000
+;84;Philippe;Gilbert;Quick-Step Floors;Deceuninck - Quick Step;1000000
+;85;Bob;Jungels;Quick-Step Floors;Deceuninck - Quick Step;1000000
+;86;Yves;Lampaert;Quick-Step Floors;Deceuninck - Quick Step;1000000
+;87;Maximiliano;Richeze;Quick-Step Floors;Deceuninck - Quick Step;1000000
+;88;Niki;Terpstra;Quick-Step Floors;Team Total Direct Energie;500000
+;89;Peter;Sagan;BORA - hansgrohe;BORA - hansgrohe;5000000
+;90;Maciej;Bodnar;BORA - hansgrohe;BORA - hansgrohe;750000
+;91;Marcus;Burghardt;BORA - hansgrohe;BORA - hansgrohe;750000
+;92;Rafal;Majka;BORA - hansgrohe;BORA - hansgrohe;
+;93;Gregor;Mühlberger;BORA - hansgrohe;BORA - hansgrohe;750000
+;94;Daniel;Oss;BORA - hansgrohe;BORA - hansgrohe;750000
+;95;Pawel;Poljański;BORA - hansgrohe;BORA - hansgrohe;
+;96;Lukas;Pöstlberger;BORA - hansgrohe;BORA - hansgrohe;750000
+;97;Jakob;Fuglsang;Astana Pro Team;Astana Pro Team;3000000
+;98;Omar;Fraile;Astana Pro Team;Astana Pro Team;750000
+;99;Dmitriy;Gruzdev;Astana Pro Team;Astana Pro Team;500000
+;100;Jesper;Hansen;Astana Pro Team;Cofidis, Solutions Crédits;500000
+;101;Tanel;Kangert;Astana Pro Team;EF Education First;
+;102;Magnus;Cort;Astana Pro Team;Astana Pro Team;1000000
+;103;Luis León;Sánchez;Astana Pro Team;Astana Pro Team;750000
+;104;Michael;Valgren;Astana Pro Team;Team Dimension Data;750000
+;105;Mark;Cavendish;Team Dimension Data;Team Dimension Data;1500000
+;106;Edvald;Boasson Hagen;Team Dimension Data;Team Dimension Data;1500000
+;107;Reinardt;Janse van Rensburg;Team Dimension Data;Team Dimension Data;750000
+;108;Serge;Pauwels;Team Dimension Data;CCC Team;500000
+;109;Mark;Renshaw;Team Dimension Data;;
+;110;Tom-Jelte;Slagter;Team Dimension Data;;
+;111;Jay Robert;Thomson;Team Dimension Data;;
+;112;Julien;Vermote;Team Dimension Data;Team Dimension Data;500000
+;113;Ilnur;Zakarin;Team Katusha Alpecin;Team Katusha Alpecin;
+;114;Ian;Boswell;Team Katusha Alpecin;;
+;115;Robert;Kišerlovski;Team Katusha Alpecin;;
+;116;Marcel;Kittel;Team Katusha Alpecin;;
+;117;Pavel;Kochetkov;Team Katusha Alpecin;Team Katusha Alpecin;500000
+;118;Tony;Martin;Team Katusha Alpecin;Team Jumbo-Visma;1000000
+;119;Nils;Politt;Team Katusha Alpecin;Team Katusha Alpecin;750000
+;120;Rick;Zabel;Team Katusha Alpecin;Team Katusha Alpecin;1000000
+;121;Arnaud;Démare;Groupama - FDJ;Groupama - FDJ;
+;122;David;Gaudu;Groupama - FDJ;Groupama - FDJ;1000000
+;123;Jacopo;Guarnieri;Groupama - FDJ;;
+;124;Olivier;Le Gac;Groupama - FDJ;;
+;125;Tobias;Ludvigsson;Groupama - FDJ;;
+;126;Rudy;Molard;Groupama - FDJ;Groupama - FDJ;750000
+;127;Ramon;Sinkeldam;Groupama - FDJ;;
+;128;Arthur;Vichot;Groupama - FDJ;;
+;129;Steven;Kruijswijk;Team LottoNL-Jumbo;Team Jumbo-Visma;3000000
+;130;Robert;Gesink;Team LottoNL-Jumbo;Team Jumbo-Visma;
+;131;Dylan;Groenewegen;Team LottoNL-Jumbo;Team Jumbo-Visma;5000000
+;132;Amund Grøndahl;Jansen;Team LottoNL-Jumbo;Team Jumbo-Visma;750000
+;133;Paul;Martens;Team LottoNL-Jumbo;;
+;134;Primož;Roglič ;Team LottoNL-Jumbo;;
+;135;Timo;Roosen;Team LottoNL-Jumbo;;
+;136;Antwan;Tolhoek;Team LottoNL-Jumbo;;
+;137;André;Greipel;Lotto Soudal;Team Arkéa Samsic;1500000
+;138;Tiesj;Benoot;Lotto Soudal;Lotto Soudal;750000
+;139;Jasper;De Buyst;Lotto Soudal;Lotto Soudal;750000
+;140;Thomas;De Gendt;Lotto Soudal;Lotto Soudal;750000
+;141;Jens;Keukeleire;Lotto Soudal;Lotto Soudal;500000
+;142;Tomasz;Marczyński;Lotto Soudal;;
+;143;Marcel;Sieberg;Lotto Soudal;Bahrein Merida;500000
+;144;Jelle;Vanendert;Lotto Soudal;;
+;145;Lilian;Calmejane;Direct Energie;Team Total Direct Energie;750000
+;146;Thomas;Boudat;Direct Energie;;
+;147;Sylvain;Chavanel;Direct Energie;;
+;148;Jérôme;Cousin;Direct Energie;;
+;149;Damien;Gaudin;Direct Energie;Team Total Direct Energie;500000
+;150;Fabien;Grellier;Direct Energie;;
+;151;Romain;Sicard;Direct Energie;Team Total Direct Energie;500000
+;152;Rein;Taaramäe;Direct Energie;Team Total Direct Energie;500000
+;153;Bauke;Mollema;Trek-Segafredo;Trek-Segafredo;1000000
+;154;Julien;Bernard;Trek-Segafredo;;
+;155;Koen;De Kort;Trek-Segafredo;Trek-Segafredo;500000
+;156;John;Degenkolb;Trek-Segafredo;Trek-Segafredo;
+;157;Michael;Gogl;Trek-Segafredo;Trek-Segafredo;500000
+;158;Tsgabu;Grmay;Trek-Segafredo;;
+;159;Toms;Skujiņš ;Trek-Segafredo;Trek-Segafredo;500000
+;160;Jasper;Stuyven;Trek-Segafredo;Trek-Segafredo;1000000
+;161;Christophe;Laporte;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;1500000
+;162;Dimitri;Claeys;Cofidis, Solutions Crédits;;
+;163;Nicolas;Edet;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;500000
+;164;Jesús;Herrada;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;500000
+;165;Daniel;Navarro;Cofidis, Solutions Crédits;;
+;166;Anthony;Perez;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;500000
+;167;Julien;Simon;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;500000
+;168;Anthony;Turgis;Cofidis, Solutions Crédits;Team Total Direct Energie;500000
+;169;Guillaume;Martin;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;750000
+;170;Thomas;Degand;Wanty - Groupe Gobert;;
+;171;Timothy;Dupont;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;1000000
+;172;Marco;Minnaard;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;500000
+;173;Yoann;Offredo;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;500000
+;174;Andrea;Pasqualon;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;750000
+;175;Dion;Smith;Wanty - Groupe Gobert;;
+;176;Guillaume;Van Keirsbulck;Wanty - Groupe Gobert;CCC Team;500000
+;177;Michael;Woods;Team EF Education First-Drapac p/b Cannondale;EF Education First;1500000
+;178;Taylor;Phinney;Team EF Education First-Drapac p/b Cannondale;EF Education First;500000
+;179;Alberto;Bettiol;BMC Racing Team;EF Education First;750000
+;180;Benoît;Cosnefroy;AG2R La Mondiale;AG2R La Mondiale;500000
+;181;Alexis;Gougeard;AG2R La Mondiale;AG2R La Mondiale;500000
+;182;Mickaël;Chérel;AG2R La Mondiale;AG2R La Mondiale;500000
+;183;Alexandre;Geniez;AG2R La Mondiale;AG2R La Mondiale;750000
+;184;Alexey;Lutsenko;Astana Pro Team;Astana Pro Team;750000
+;185;Pello;Bilbao;Astana Pro Team;Astana Pro Team;1000000
+;186;Rohan;Dennis;BMC Racing Team;Bahrein Merida;1000000
+;187;Matej;Mohorič;Bahrein Merida Pro Cycling Team;Bahrein Merida;750000
+;188;Dylan;Teuns;BMC Racing Team;Bahrein Merida;750000
+;189;Oscar;Gatto;Astana Pro Team;BORA - hansgrohe;750000
+;190;Emanuel ;Buchmann;BORA - hansgrohe;BORA - hansgrohe;2000000
+;191;Maximilian;Schachmann;BORA - hansgrohe;BORA - hansgrohe;1500000
+;192;Patrick;Konrad;BORA - hansgrohe;BORA - hansgrohe;1000000
+;193;Alessandro;De Marchi;BMC Racing Team;CCC Team;750000
+;194;Nacer;Bouhanni;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;1500000
+;195;Hugo;Hofstetter;Cofidis, Solutions Crédits;Cofidis, Solutions Crédits;500000
+;196;Pierre-Luc;Périchon;Team Fortuneo - Samsic;Cofidis, Solutions Crédits;500000
+;197;Enric;Mas;Quick-Step Floors;Deceuninck - Quick Step;3500000
+;198;Elia;Viviani;Quick-Step Floors;Deceuninck - Quick Step;4000000
+;199;Zdenek;Štybar;Quick-Step Floors;Deceuninck - Quick Step;1000000
+;200;Dries;Devenyns;Quick-Step Floors;Deceuninck - Quick Step;750000
+;201;Michael;Mørkøv;Quick-Step Floors;Deceuninck - Quick Step;750000
+;202;Fabio;Sabatini;Quick-Step Floors;Deceuninck - Quick Step;750000
+;203;Thibaut;Pinot;Groupama - FDJ;Groupama - FDJ;3000000
+;204;Sébastian;Reichenbach;Groupama - FDJ;Groupama - FDJ;750000
+;205;Steve;Morabito;Groupama - FDJ;Groupama - FDJ;500000
+;206;Anthony;Roux;Groupama - FDJ;Groupama - FDJ;500000
+;207;Caleb;Ewan;Lotto Soudal;Lotto Soudal;3500000
+;208;Tim;Wellens;Lotto Soudal;Lotto Soudal;750000
+;209;Roger;Kluge;Mitchelton-Scott;Lotto Soudal;500000
+;210;Matteo;Trentin;Mitchelton-Scott;Mitchelton-Scott;2500000
+;211;Winner;Anacona;Movistar Team;Movistar Team;750000
+;212;Nelson;Oliveira;Movistar Team;Movistar Team;750000
+;213;Carlos;Verona;Mitchelton-Scott;Movistar Team;500000
+;214;Roman;Kreuziger;Mitchelton-Scott;Team Dimension Data;750000
+;215;Louis;Meintjes;Team Dimension Data;Team Dimension Data;750000
+;216;Bernhard;Eisel;Team Dimension Data;Team Dimension Data;500000
+;217;Ben;King;Team Dimension Data;Team Dimension Data;500000
+;218;Kenny;Elissonde;Team Sky;Team INEOS;1000000
+;219;Dylan;Van Baarle;Team Sky;Team INEOS;1000000
+;220;George;Bennett;Team LottoNL-Jumbo;Team Jumbo-Visma;1500000
+;221;Wout;Van Aert;Vérandas Willems-Crelan;Team Jumbo-Visma;1500000
+;222;Laurens;De Plus;Quick-Step Floors;Team Jumbo-Visma;1000000
+;223;Mike;Teunissen;Team Sunweb;Team Jumbo-Visma;750000
+;224;Jens;Debusschere;Lotto Soudal;Team Katusha Alpecin;1000000
+;225;José;Gonçalves;Team Katusha Alpecin;Team Katusha Alpecin;750000
+;226;Marco;Haller;Team Katusha Alpecin;Team Katusha Alpecin;500000
+;227;Wilco;Kelderman;Team Sunweb;Team Sunweb;2000000
+;228;Nicolas;Roche;BMC Racing Team;Team Sunweb;750000
+;229;Lennard;Kämna;Team Sunweb;Team Sunweb;500000
+;230;Niccolò;Bonifazio;Bahrein Merida Pro Cycling Team;Team Total Direct Energie;1000000
+;231;Yohann;Gène;Direct Energie;Team Total Direct Energie;500000
+;232;Adrien;Petit;Direct Energie;Team Total Direct Energie;500000
+;233;Giulio;Ciccone;Bardiani - CSF;Trek-Segafredo;1000000
+;234;Rui;Costa;UAE-Team Emirates;UAE-Team Emirates;1000000
+;235;Sergio;Henao;Team Sky;UAE-Team Emirates;750000
+;236;Bart;De Clercq;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;500000
+;237;Odd Christian;Eiking;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;500000
+;238;Xandro;Meurisse;Wanty - Groupe Gobert;Wanty - Gobert Cycling Team;500000
+;239;Loïc;Vliegen;BMC Racing Team;Wanty - Gobert Cycling Team;500000
+;240;;;;;
+;241;;;;;
+;242;;;;;
+;243;;;;;
+;244;;;;;
+;245;;;;;
+;246;;;;;
+;247;;;;;
+;248;;;;;
+;249;;;;;
+;250;;;;;
+;251;;;;;
+;252;;;;;
+;253;;;;;
+;254;;;;;
+;255;;;;;
+;256;;;;;
+;257;;;;;
+;258;;;;;
+;259;;;;;
+;260;;;;;
+;261;;;;;
+;262;;;;;
+;263;;;;;
+;264;;;;;
+;265;;;;;
+;266;;;;;
+;267;;;;;
+;268;;;;;
+;269;;;;;
+;270;;;;;
+;271;;;;;
+;272;;;;;
+;273;;;;;
+;274;;;;;
+;275;;;;;
+;276;;;;;
+;277;;;;;
+;278;;;;;
+;279;;;;;
+;280;;;;;
+;281;;;;;
+;282;;;;;
+;283;;;;;
+;284;;;;;
+;285;;;;;
+;286;;;;;
+;287;;;;;
+;288;;;;;
+;289;;;;;
+;290;;;;;
+;291;;;;;
+;292;;;;;
+;293;;;;;
+;294;;;;;
+;295;;;;;
+;296;;;;;
+;297;;;;;
+;298;;;;;
+;299;;;;;
+;300;;;;;
+;301;;;;;
+;302;;;;;
+;303;;;;;
+;304;;;;;
+;305;;;;;
+;306;;;;;
+;307;;;;;
+;308;;;;;
+;309;;;;;
+;310;;;;;
+;311;;;;;

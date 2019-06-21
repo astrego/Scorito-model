@@ -12,6 +12,11 @@ app.get('', (req, res) => {
     res.send()
 });
 
+app.get('/download', (req,res) => {
+    const file = publicDirectoryPath + '/data/model.xlsx';
+    res.download(file);
+});
+
 app.listen(port, () => {
     console.log('Server is up on port ' + port);
 });
